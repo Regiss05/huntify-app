@@ -21,11 +21,6 @@
 
 You can create your own account and login to the system, use the below credentials to test the app or create a new account
 
-### Login:
-   
-   - email: mwafrika@gmail.com
-   - password: 123456
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
