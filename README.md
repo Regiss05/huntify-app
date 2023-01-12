@@ -26,15 +26,6 @@ You can create your own account and login to the system, use the below credentia
    - email: mwafrika@gmail.com
    - password: 123456
 
-## Author
-
-👤 **Mwafrika Josue**
-
-- GitHub: [@mwafrika](https://github.com/mwafrika)
-- Twitter: [@mwafrika](@mwafrikamufung1)
-- LinkedIn: [Mwafrika Mufungizi](https://www.linkedin.com/in/mwafrika-mufungizi/)
-- Portfolio: [Mwafrika Portfolio](https://mwafrika-ky6x.onrender.com/)
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
